@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="B2BAISERAModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="B2BAISERAModelStoreContainer">
+    <EntitySet Name="DocumentFileType" EntityType="B2BAISERAModel.Store.DocumentFileType" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="DocumentIPAddress" EntityType="B2BAISERAModel.Store.DocumentIPAddress" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="DocumentStatus" EntityType="B2BAISERAModel.Store.DocumentStatus" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Response" EntityType="B2BAISERAModel.Store.Response" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Transaction" EntityType="B2BAISERAModel.Store.Transaction" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TransactionData" EntityType="B2BAISERAModel.Store.TransactionData" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TransactionDataDetail" EntityType="B2BAISERAModel.Store.TransactionDataDetail" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="User" EntityType="B2BAISERAModel.Store.User" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Transaction" Association="B2BAISERAModel.Store.FK_Transaction">
+      <End Role="Transaction" EntitySet="Transaction" />
+      <End Role="TransactionData" EntitySet="TransactionData" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TransactionData" Association="B2BAISERAModel.Store.FK_TransactionData">
+      <End Role="TransactionData" EntitySet="TransactionData" />
+      <End Role="TransactionDataDetail" EntitySet="TransactionDataDetail" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="DocumentFileType">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="FileTypeName" Type="varchar" MaxLength="20" />
+    <Property Name="CreatedWho" Type="varchar" MaxLength="50" />
+    <Property Name="CreatedWhen" Type="datetime" />
+    <Property Name="ChangedWho" Type="varchar" MaxLength="50" />
+    <Property Name="ChangedWhen" Type="datetime" />
+  </EntityType>
+  <EntityType Name="DocumentIPAddress">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="IPAddress" Type="varchar" Nullable="false" MaxLength="15" />
+    <Property Name="CreatedWho" Type="varchar" MaxLength="50" />
+    <Property Name="CreatedWhen" Type="datetime" />
+    <Property Name="ChangedWho" Type="varchar" MaxLength="50" />
+    <Property Name="ChangedWhen" Type="datetime" />
+  </EntityType>
+  <EntityType Name="DocumentStatus">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="StatusName" Type="varchar" MaxLength="20" />
+    <Property Name="CreatedWho" Type="varchar" MaxLength="50" />
+    <Property Name="CreatedWhen" Type="datetime" />
+    <Property Name="ChangedWho" Type="varchar" MaxLength="50" />
+    <Property Name="ChangedWhen" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Response">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="WebServiceName" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="MethodName" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Acknowledge" Type="bit" Nullable="false" />
+    <Property Name="TicketNo" Type="varchar" MaxLength="500" />
+    <Property Name="Message" Type="varchar" MaxLength="500" />
+    <Property Name="CreatedWho" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="CreatedWhen" Type="datetime" Nullable="false" />
+    <Property Name="ChangedWho" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="ChangedWhen" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Transaction">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TicketNo" Type="varchar" Nullable="false" MaxLength="200" />
+    <Property Name="ClientTag" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="CreatedWho" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="CreatedWhen" Type="datetime" Nullable="false" />
+    <Property Name="ChangedWho" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="ChangedWhen" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TransactionData">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TransactionID" Type="int" Nullable="false" />
+    <Property Name="TransGUID" Type="varchar" Nullable="false" MaxLength="40" />
+    <Property Name="DocumentNumber" Type="varchar" Nullable="false" MaxLength="30" />
+    <Property Name="FileType" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="IPAddress" Type="varchar" Nullable="false" MaxLength="15" />
+    <Property Name="DestinationUser" Type="varchar" Nullable="false" MaxLength="10" />
+    <Property Name="Key1" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="Key2" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="Key3" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="DataLength" Type="int" Nullable="false" />
+    <Property Name="RowStatus" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="CreatedWho" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="CreatedWhen" Type="datetime" Nullable="false" />
+    <Property Name="ChangedWho" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="ChangedWhen" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TransactionDataDetail">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="TransactionDataID" Type="int" Nullable="false" />
+    <Property Name="Data" Type="varchar" MaxLength="400" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="varchar" MaxLength="200" />
+    <Property Name="Password" Type="varchar" MaxLength="200" />
+    <Property Name="ClientTag" Type="varchar" MaxLength="50" />
+    <Property Name="CreatedWho" Type="varchar" MaxLength="50" />
+    <Property Name="CreatedWhen" Type="datetime" />
+    <Property Name="ChangedWho" Type="varchar" MaxLength="50" />
+    <Property Name="ChangedWhen" Type="datetime" />
+  </EntityType>
+  <Association Name="FK_Transaction">
+    <End Role="Transaction" Type="B2BAISERAModel.Store.Transaction" Multiplicity="1" />
+    <End Role="TransactionData" Type="B2BAISERAModel.Store.TransactionData" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Transaction">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TransactionData">
+        <PropertyRef Name="TransactionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TransactionData">
+    <End Role="TransactionData" Type="B2BAISERAModel.Store.TransactionData" Multiplicity="1" />
+    <End Role="TransactionDataDetail" Type="B2BAISERAModel.Store.TransactionDataDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TransactionData">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TransactionDataDetail">
+        <PropertyRef Name="TransactionDataID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="sp_GetTest" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="userName" Type="varchar" Mode="In" />
+    <Parameter Name="password" Type="varchar" Mode="In" />
+  </Function>
+</Schema>

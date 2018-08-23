@@ -1,0 +1,123 @@
+E:\Kantor\Project\SERA\B2BSERAWebService\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\B2BSERAWebService\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\B2BSERAWebService\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\B2BSERAWebService\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\B2BSERAWebService\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\B2BSERAWebService - 2013Agustus28\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\B2BSERAWebService - 2013Agustus28\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\B2BSERAWebService - 2013Agustus28\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\B2BSERAWebService - 2013Agustus28\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\B2BSERAWebService - 2013Agustus28\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.csprojResolveAssemblyReference.cache
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.pdb
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.csprojResolveAssemblyReference.cache
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll.config
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.pdb
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.csprojResolveAssemblyReference.cache
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+G:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll.config
+G:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll
+G:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.pdb
+G:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+G:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+I:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll.config
+I:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll
+I:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.pdb
+I:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+I:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll.config
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.pdb
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.csprojResolveAssemblyReference.cache
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll.config
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.dll
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BSERAWebService\bin\B2BSERAWebService.pdb
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.csprojResolveAssemblyReference.cache
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.dll
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BSERAWebService\obj\Debug\B2BSERAWebService.pdb

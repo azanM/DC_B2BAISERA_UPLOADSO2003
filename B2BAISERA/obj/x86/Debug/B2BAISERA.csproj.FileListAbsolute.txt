@@ -1,0 +1,933 @@
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.xml
+\\vmware-host\Shared Folders\E\Kantor\Project\SERA\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+\\vmware-host\Shared Folders\E\Kantor\Project\SERA\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+\\vmware-host\Shared Folders\E\Kantor\Project\SERA\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.frmWebRefLogin.resources
+E:\Kantor\Project\SERA\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.frmWebRefLogin.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus15\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.S02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.frmWebRefLogin.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.S02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus16\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.frmWebRefLogin.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.S02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus19\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.frmWebRefLogin.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.S02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus20\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.frmWebRefLogin.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.S02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus20 - SORE\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.frmWebRefLogin.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.S02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus21\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.frmWebRefLogin.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.S02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus22\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.frmWebRefLogin.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.S02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.frmWebRefLogin.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.S02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus23\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.frmWebRefLogin.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.S02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus26\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.frmWebRefLogin.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.S02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus27\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.frmWebRefLogin.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.S02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus28\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001Local.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002Local.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003Local.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005Local.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004Local.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006Local.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus28 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008Local.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008Local.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006Local.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004Local.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005Local.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003Local.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002Local.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001Local.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Agustus30 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008Local.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006Local.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004Local.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005Local.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003Local.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002Local.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001Local.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September02 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008Local.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006Local.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004Local.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005Local.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003Local.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002Local.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001Local.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September03 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008Local.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006Local.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004Local.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005Local.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003Local.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002Local.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001Local.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September04 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008Local.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006Local.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004Local.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005Local.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003Local.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002Local.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001Local.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September05 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008Local.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006Local.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004Local.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005Local.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003Local.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002Local.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001Local.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September09 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September11 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013September11 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September11 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008Local.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006Local.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004Local.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005Local.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003Local.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002Local.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001Local.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September17 - Local Ws\B2BAISERA - Upload S02001\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September19 - Local Ws\B2BAISERA - Upload S02003\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September19-Local Ws\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001Local.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September19\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008Local.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006Local.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004Local.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005Local.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003Local.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002Local.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001Local.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013September30\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Oktober01\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Oktober01\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Oktober01\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Oktober03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Oktober21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001Local.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02002.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02004.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02006.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.DownloadS02008.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form1.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form2.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form3.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Form4.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Service.B2BAISERAService.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02001.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02005.resources
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Oktober28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013November12\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013November12\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013November12\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013November20\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013November20\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013November20\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013November21\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA.exe.config
+E:\Kantor\Project\SERA\Backup\2013November21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.exe
+E:\Kantor\Project\SERA\Backup\2013November21\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.pdb
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.pdb
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.exe
+E:\Kantor\Project\SERA\Backup\2013November28\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.pdb
+E:\Kantor\Project\SERA\Backup\2013November29\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+E:\Kantor\Project\SERA\Backup\2013November29\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.exe
+E:\Kantor\Project\SERA\Backup\2013November29\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.pdb
+E:\Kantor\Project\SERA\Backup\2013November29\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe
+E:\Kantor\Project\SERA\Backup\2013November29\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.pdb
+E:\Kantor\Project\SERA\Backup\2013November29\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\Kantor\Project\SERA\Backup\2013November29\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\Kantor\Project\SERA\Backup\2013November29\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\Kantor\Project\SERA\Backup\2013November29\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\Kantor\Project\SERA\Backup\2013November29\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kantor\Project\SERA\Backup\2013November29\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\Kantor\Project\SERA\Backup\2013November29\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\Kantor\Project\SERA\Backup\2013November29\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kantor\Project\SERA\Backup\2013November29\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kantor\Project\SERA\Backup\2013Desember03\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+E:\Kantor\Project\SERA\Backup\2013Desember03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.exe
+E:\Kantor\Project\SERA\Backup\2013Desember03\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.pdb
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.exe
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.pdb
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.pdb
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\B2B_2014Jan27\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csproj.GenerateResource.Cache
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.exe
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.pdb
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.pdb
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.dll
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.xml
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csprojResolveAssemblyReference.cache
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+E:\SERA\Pins & B2B\SERA_IYAN_2014Jan30\local\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csproj.GenerateResource.Cache
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.exe
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.pdb
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.pdb
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.dll
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.xml
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csprojResolveAssemblyReference.cache
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+D:\Kantor\Project\SERA\B2B from firman\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csproj.GenerateResource.Cache
+D:\Kantor\Project\SERA\B2B from firman\19Mei2015_PROD\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+D:\Kantor\Project\SERA\B2B from firman\19Mei2015_PROD\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.exe
+D:\Kantor\Project\SERA\B2B from firman\19Mei2015_PROD\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.pdb
+D:\Kantor\Project\SERA\B2B from firman\19Mei2015_PROD\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csprojResolveAssemblyReference.cache
+D:\Kantor\Project\SERA\B2B from firman\19Mei2015_PROD\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+D:\Kantor\Project\SERA\B2B from firman\19Mei2015_PROD\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+D:\Kantor\Project\SERA\B2B from firman\19Mei2015_PROD\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csproj.GenerateResource.Cache
+D:\Kantor\Project\SERA\B2B from firman\19Mei2015_PROD\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe
+D:\Kantor\Project\SERA\B2B from firman\19Mei2015_PROD\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.pdb
+D:\Kantor\Project\SERA\B2B from firman\19Mei2015_PROD\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.dll
+D:\Kantor\Project\SERA\B2B from firman\19Mei2015_PROD\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+D:\Kantor\Project\SERA\B2B from firman\19Mei2015_PROD\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+D:\Kantor\Project\SERA\B2B from firman\19Mei2015_PROD\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.xml
+D:\MARTHADINATA\KERJA\SERA\Sera\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+D:\MARTHADINATA\KERJA\SERA\Sera\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.exe
+D:\MARTHADINATA\KERJA\SERA\Sera\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.pdb
+D:\MARTHADINATA\KERJA\SERA\Sera\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe
+D:\MARTHADINATA\KERJA\SERA\Sera\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.pdb
+D:\MARTHADINATA\KERJA\SERA\Sera\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.dll
+D:\MARTHADINATA\KERJA\SERA\Sera\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+D:\MARTHADINATA\KERJA\SERA\Sera\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+D:\MARTHADINATA\KERJA\SERA\Sera\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.xml
+D:\MARTHADINATA\KERJA\SERA\Sera\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csprojResolveAssemblyReference.cache
+D:\MARTHADINATA\KERJA\SERA\Sera\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+D:\MARTHADINATA\KERJA\SERA\Sera\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+D:\MARTHADINATA\KERJA\SERA\Sera\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csproj.GenerateResource.Cache
+G:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+G:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.exe
+G:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csprojResolveAssemblyReference.cache
+G:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+G:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+G:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csproj.GenerateResource.Cache
+I:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+I:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csprojResolveAssemblyReference.cache
+I:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+I:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+I:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csproj.GenerateResource.Cache
+H:\B2B_19Mei2015_Dev\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+D:\SERA\Source Code\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+D:\SERA\Source Code\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.exe
+D:\WORK\SERA\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+D:\WORK\SERA\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.exe
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.exe
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csprojResolveAssemblyReference.cache
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csproj.GenerateResource.Cache
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.pdb
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.dll
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.xml
+D:\WORK\SERA\SOURCE\B2B HISTORY\B2B - New\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.pdb
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.exe
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.pdb
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.pdb
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.dll
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.xml
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csprojResolveAssemblyReference.cache
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+D:\WORK\SERA\SOURCE\B2B\B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csproj.GenerateResource.Cache
+H:\KANTOR\TFS SERA DEVELOPMENT\DC B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+H:\KANTOR\TFS SERA DEVELOPMENT\DC B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.exe
+H:\KANTOR\TFS SERA DEVELOPMENT\DC B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.pdb
+H:\KANTOR\TFS SERA DEVELOPMENT\DC B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe
+H:\KANTOR\TFS SERA DEVELOPMENT\DC B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.pdb
+H:\KANTOR\TFS SERA DEVELOPMENT\DC B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.dll
+H:\KANTOR\TFS SERA DEVELOPMENT\DC B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.dll
+H:\KANTOR\TFS SERA DEVELOPMENT\DC B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\System.Data.SqlServerCe.Entity.dll
+H:\KANTOR\TFS SERA DEVELOPMENT\DC B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\EntityFramework.xml
+H:\KANTOR\TFS SERA DEVELOPMENT\DC B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csprojResolveAssemblyReference.cache
+H:\KANTOR\TFS SERA DEVELOPMENT\DC B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.Properties.Resources.resources
+H:\KANTOR\TFS SERA DEVELOPMENT\DC B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.UploadS02003.resources
+H:\KANTOR\TFS SERA DEVELOPMENT\DC B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA.csproj.GenerateResource.Cache
+D:\JULI2018\B2B\DC B2BAISERA-UploadS02003\B2BAISERA\bin\Debug\B2BAISERA_S02003.exe.config
+D:\JULI2018\B2B\DC B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.exe
+D:\JULI2018\B2B\DC B2BAISERA-UploadS02003\B2BAISERA\obj\x86\Debug\B2BAISERA_S02003.pdb

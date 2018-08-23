@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://apps.astra.co.id/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://apps.astra.co.id/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://apps.astra.co.id/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LoginAuthentication">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="loginRequest" type="tns:loginRequest" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="loginRequest">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ClientTag" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="LoginAuthenticationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LoginAuthenticationResult" type="tns:LoginAuthenticationViewModel" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="LoginAuthenticationViewModel">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Acknowledge" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="TicketNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="UploadDocument">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="uploadRequest" type="tns:uploadRequest" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="uploadRequest">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="TicketNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ClientTag" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="transactionData" type="tns:ArrayOfTransactionDataModel" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfTransactionDataModel">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="TransactionDataModel" nillable="true" type="tns:TransactionDataModel" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="TransactionDataModel">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="ID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="TransactionID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="TransGUID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DocumentNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FileType" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="IPAddress" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DestinationUser" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Key1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Key2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Key3" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DataLength" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="RowStatus" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Data" type="tns:ArrayOfString" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="UploadDocumentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UploadDocumentResult" type="tns:UploadDocumentViewModel" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="UploadDocumentViewModel">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Acknowledge" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="TicketNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="DownloadDocument">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="downloadRequest" type="tns:downloadRequest" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="downloadRequest">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="TicketNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ClientTag" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FileType" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SourceUser" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Status" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="TransDateFrom" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="TransDateTo" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="Key1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Key2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Key3" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="DownloadDocumentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DownloadDocumentResult" type="tns:DownloadDocumentViewModel" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="DownloadDocumentViewModel">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Acknowledge" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="TicketNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="transactionData" type="tns:ArrayOfTransactionDataModel" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="UpdateDocumentStatus">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="updateStatusRequest" type="tns:updateStatusRequest" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="updateStatusRequest">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="TicketNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ClientTag" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="transactionDataID" type="tns:ArrayOfTransactionDataID" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfTransactionDataID">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="TransactionDataID" nillable="true" type="tns:TransactionDataID" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="TransactionDataID">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="TransGUID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DocumentNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Key1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Key2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Key3" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TransStatus" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LogMessage" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="UpdateDocumentStatusResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateDocumentStatusResult" type="tns:UpdateDocumentViewModel" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="UpdateDocumentViewModel">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Acknowledge" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="TicketNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="LoginAuthenticationSoapIn">
+    <wsdl:part name="parameters" element="tns:LoginAuthentication" />
+  </wsdl:message>
+  <wsdl:message name="LoginAuthenticationSoapOut">
+    <wsdl:part name="parameters" element="tns:LoginAuthenticationResponse" />
+  </wsdl:message>
+  <wsdl:message name="UploadDocumentSoapIn">
+    <wsdl:part name="parameters" element="tns:UploadDocument" />
+  </wsdl:message>
+  <wsdl:message name="UploadDocumentSoapOut">
+    <wsdl:part name="parameters" element="tns:UploadDocumentResponse" />
+  </wsdl:message>
+  <wsdl:message name="DownloadDocumentSoapIn">
+    <wsdl:part name="parameters" element="tns:DownloadDocument" />
+  </wsdl:message>
+  <wsdl:message name="DownloadDocumentSoapOut">
+    <wsdl:part name="parameters" element="tns:DownloadDocumentResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateDocumentStatusSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateDocumentStatus" />
+  </wsdl:message>
+  <wsdl:message name="UpdateDocumentStatusSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateDocumentStatusResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WsB2BAISERASoap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="LoginAuthentication">
+      <wsdl:input message="tns:LoginAuthenticationSoapIn" />
+      <wsdl:output message="tns:LoginAuthenticationSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UploadDocument">
+      <wsdl:input message="tns:UploadDocumentSoapIn" />
+      <wsdl:output message="tns:UploadDocumentSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DownloadDocument">
+      <wsdl:input message="tns:DownloadDocumentSoapIn" />
+      <wsdl:output message="tns:DownloadDocumentSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateDocumentStatus">
+      <wsdl:input message="tns:UpdateDocumentStatusSoapIn" />
+      <wsdl:output message="tns:UpdateDocumentStatusSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WsB2BAISERASoap" type="tns:WsB2BAISERASoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://apps.astra.co.id/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LoginAuthentication">
+      <soap:operation soapAction="http://apps.astra.co.id/LoginAuthentication" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadDocument">
+      <soap:operation soapAction="http://apps.astra.co.id/UploadDocument" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DownloadDocument">
+      <soap:operation soapAction="http://apps.astra.co.id/DownloadDocument" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateDocumentStatus">
+      <soap:operation soapAction="http://apps.astra.co.id/UpdateDocumentStatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WsB2BAISERASoap12" type="tns:WsB2BAISERASoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://apps.astra.co.id/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LoginAuthentication">
+      <soap12:operation soapAction="http://apps.astra.co.id/LoginAuthentication" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadDocument">
+      <soap12:operation soapAction="http://apps.astra.co.id/UploadDocument" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DownloadDocument">
+      <soap12:operation soapAction="http://apps.astra.co.id/DownloadDocument" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateDocumentStatus">
+      <soap12:operation soapAction="http://apps.astra.co.id/UpdateDocumentStatus" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WsB2BAISERA">
+    <wsdl:port name="WsB2BAISERASoap" binding="tns:WsB2BAISERASoap">
+      <soap:address location="http://localhost:2222/WsB2BAISERA.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WsB2BAISERASoap12" binding="tns:WsB2BAISERASoap12">
+      <soap12:address location="http://localhost:2222/WsB2BAISERA.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

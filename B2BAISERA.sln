@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4A0B60E0-ABA2-405E-9F60-629941E1DC99}"
+	ProjectSection(SolutionItems) = preProject
+		B2BAISERA.vsmdi = B2BAISERA.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2BAISERA", "B2BAISERA\B2BAISERA.csproj", "{3A1DA42E-690D-49B9-9179-D2D97BBDA08B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2BSERAWebService", "B2BSERAWebService\B2BSERAWebService.csproj", "{C5E2F1AE-D11A-4D8D-9984-B3A0C12EA153}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "UploadS02003Installer", "UploadS02003Installer\UploadS02003Installer.vdproj", "{66201F43-0D01-4CF3-A99F-6FA3B0823872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A1DA42E-690D-49B9-9179-D2D97BBDA08B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{3A1DA42E-690D-49B9-9179-D2D97BBDA08B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{3A1DA42E-690D-49B9-9179-D2D97BBDA08B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{3A1DA42E-690D-49B9-9179-D2D97BBDA08B}.Debug|x86.ActiveCfg = Debug|x86
+		{3A1DA42E-690D-49B9-9179-D2D97BBDA08B}.Debug|x86.Build.0 = Debug|x86
+		{3A1DA42E-690D-49B9-9179-D2D97BBDA08B}.Release|Any CPU.ActiveCfg = Release|x86
+		{3A1DA42E-690D-49B9-9179-D2D97BBDA08B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{3A1DA42E-690D-49B9-9179-D2D97BBDA08B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{3A1DA42E-690D-49B9-9179-D2D97BBDA08B}.Release|x86.ActiveCfg = Release|x86
+		{3A1DA42E-690D-49B9-9179-D2D97BBDA08B}.Release|x86.Build.0 = Release|x86
+		{C5E2F1AE-D11A-4D8D-9984-B3A0C12EA153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E2F1AE-D11A-4D8D-9984-B3A0C12EA153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E2F1AE-D11A-4D8D-9984-B3A0C12EA153}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C5E2F1AE-D11A-4D8D-9984-B3A0C12EA153}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C5E2F1AE-D11A-4D8D-9984-B3A0C12EA153}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C5E2F1AE-D11A-4D8D-9984-B3A0C12EA153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E2F1AE-D11A-4D8D-9984-B3A0C12EA153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E2F1AE-D11A-4D8D-9984-B3A0C12EA153}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C5E2F1AE-D11A-4D8D-9984-B3A0C12EA153}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C5E2F1AE-D11A-4D8D-9984-B3A0C12EA153}.Release|x86.ActiveCfg = Release|Any CPU
+		{66201F43-0D01-4CF3-A99F-6FA3B0823872}.Debug|Any CPU.ActiveCfg = Debug
+		{66201F43-0D01-4CF3-A99F-6FA3B0823872}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{66201F43-0D01-4CF3-A99F-6FA3B0823872}.Debug|x86.ActiveCfg = Debug
+		{66201F43-0D01-4CF3-A99F-6FA3B0823872}.Release|Any CPU.ActiveCfg = Release
+		{66201F43-0D01-4CF3-A99F-6FA3B0823872}.Release|Mixed Platforms.ActiveCfg = Release
+		{66201F43-0D01-4CF3-A99F-6FA3B0823872}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = B2BAISERA.vsmdi
+	EndGlobalSection
+EndGlobal

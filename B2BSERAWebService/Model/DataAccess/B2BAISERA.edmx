@@ -1,0 +1,613 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="B2BAISERAModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="B2BAISERAModelStoreContainer">
+          <EntitySet Name="DocumentFileType" EntityType="B2BAISERAModel.Store.DocumentFileType" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="DocumentIPAddress" EntityType="B2BAISERAModel.Store.DocumentIPAddress" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Response" EntityType="B2BAISERAModel.Store.Response" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="S02002" EntityType="B2BAISERAModel.Store.S02002" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Transaction" EntityType="B2BAISERAModel.Store.Transaction" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="TransactionData" EntityType="B2BAISERAModel.Store.TransactionData" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="TransactionDataDetail" EntityType="B2BAISERAModel.Store.TransactionDataDetail" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="User" EntityType="B2BAISERAModel.Store.User" store:Type="Tables" Schema="dbo" />
+          <AssociationSet Name="FK_Transaction" Association="B2BAISERAModel.Store.FK_Transaction">
+            <End Role="Transaction" EntitySet="Transaction" />
+            <End Role="TransactionData" EntitySet="TransactionData" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TransactionData" Association="B2BAISERAModel.Store.FK_TransactionData">
+            <End Role="TransactionData" EntitySet="TransactionData" />
+            <End Role="TransactionDataDetail" EntitySet="TransactionDataDetail" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TransactionData_S02002" Association="B2BAISERAModel.Store.FK_TransactionData_S02002">
+            <End Role="TransactionData" EntitySet="TransactionData" />
+            <End Role="S02002" EntitySet="S02002" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="DocumentFileType">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="FileTypeName" Type="varchar" MaxLength="20" />
+          <Property Name="CreatedWho" Type="varchar" MaxLength="50" />
+          <Property Name="CreatedWhen" Type="datetime" />
+          <Property Name="ChangedWho" Type="varchar" MaxLength="50" />
+          <Property Name="ChangedWhen" Type="datetime" />
+        </EntityType>
+        <EntityType Name="DocumentIPAddress">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="IPAddress" Type="varchar" Nullable="false" MaxLength="15" />
+          <Property Name="CreatedWho" Type="varchar" MaxLength="50" />
+          <Property Name="CreatedWhen" Type="datetime" />
+          <Property Name="ChangedWho" Type="varchar" MaxLength="50" />
+          <Property Name="ChangedWhen" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Response">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="WebServiceName" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="MethodName" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Acknowledge" Type="bit" Nullable="false" />
+          <Property Name="TicketNo" Type="varchar" MaxLength="500" />
+          <Property Name="Message" Type="varchar" MaxLength="500" />
+          <Property Name="CreatedWho" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="CreatedWhen" Type="datetime" Nullable="false" />
+          <Property Name="ChangedWho" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="ChangedWhen" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="S02002">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="TransactionDataID" Type="int" />
+          <Property Name="PONumber" Type="varchar" MaxLength="50" />
+          <Property Name="Version" Type="decimal" Precision="3" />
+          <Property Name="StatusPOSERA" Type="varchar" MaxLength="1" />
+          <Property Name="RejectRevisedPOSERA" Type="varchar" MaxLength="500" />
+          <Property Name="DocumentNo" Type="varchar" MaxLength="15" />
+          <Property Name="AIMaterialNumber" Type="varchar" MaxLength="18" />
+          <Property Name="SERAMaterialNumber" Type="varchar" MaxLength="50" />
+          <Property Name="SERAMaterialDescription" Type="varchar" MaxLength="40" />
+          <Property Name="AIColor" Type="varchar" MaxLength="30" />
+          <Property Name="SERAColor" Type="varchar" MaxLength="20" />
+          <Property Name="QuotationNo" Type="varchar" MaxLength="15" />
+          <Property Name="SalesOrderNo" Type="varchar" MaxLength="15" />
+          <Property Name="DPPByVendor" Type="float" />
+          <Property Name="PPNByVendor" Type="float" />
+          <Property Name="BBNPriceByVendor" Type="float" />
+          <Property Name="Currency" Type="varchar" MaxLength="4" />
+          <Property Name="ChassisNumberByVendor" Type="varchar" MaxLength="18" />
+          <Property Name="MachineNumberByVendor" Type="varchar" MaxLength="30" />
+          <Property Name="CBUCKD" Type="varchar" MaxLength="3" />
+          <Property Name="Year" Type="int" />
+          <Property Name="FactureDONumber" Type="varchar" MaxLength="15" />
+          <Property Name="BillingStatus" Type="bit" />
+          <Property Name="FactureDODate" Type="datetime" />
+          <Property Name="NoFakturKendaraan" Type="varchar" MaxLength="15" />
+          <Property Name="TanggalFakturKendaraan" Type="datetime" />
+          <Property Name="CancellationReason" Type="varchar" MaxLength="500" />
+          <Property Name="ActualDateDeliveryUnit" Type="datetime" />
+          <Property Name="BSTKBNo" Type="varchar" MaxLength="25" />
+          <Property Name="LicensePlateByVendor" Type="varchar" MaxLength="10" />
+          <Property Name="STNKDateByVendor" Type="datetime" />
+          <Property Name="RevisiSTNK" Type="datetime" />
+          <Property Name="NoSertifikat" Type="varchar" MaxLength="20" />
+          <Property Name="TglSertifikat" Type="datetime" />
+          <Property Name="NoFormulirA" Type="varchar" MaxLength="40" />
+          <Property Name="TglFormulirA" Type="datetime" />
+          <Property Name="NoSertifikatRegUjiTipe" Type="varchar" MaxLength="50" />
+          <Property Name="ActualDeliveryBPKBDate" Type="datetime" />
+          <Property Name="NamaPenerima" Type="varchar" MaxLength="30" />
+          <Property Name="AlamatPenerima" Type="varchar" MaxLength="40" />
+          <Property Name="BPKBNumber" Type="varchar" MaxLength="11" />
+          <Property Name="RemarksBPKB" Type="varchar" MaxLength="255" />
+          <Property Name="RevisiBPKB" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Transaction">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="TicketNo" Type="varchar" Nullable="false" MaxLength="200" />
+          <Property Name="ClientTag" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="CreatedWho" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="CreatedWhen" Type="datetime" Nullable="false" />
+          <Property Name="ChangedWho" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="ChangedWhen" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TransactionData">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="TransactionID" Type="int" Nullable="false" />
+          <Property Name="TransGUID" Type="varchar" Nullable="false" MaxLength="40" />
+          <Property Name="DocumentNumber" Type="varchar" Nullable="false" MaxLength="30" />
+          <Property Name="FileType" Type="varchar" Nullable="false" MaxLength="20" />
+          <Property Name="IPAddress" Type="varchar" Nullable="false" MaxLength="15" />
+          <Property Name="DestinationUser" Type="varchar" Nullable="false" MaxLength="10" />
+          <Property Name="Key1" Type="varchar" MaxLength="20" />
+          <Property Name="Key2" Type="varchar" MaxLength="20" />
+          <Property Name="Key3" Type="varchar" MaxLength="20" />
+          <Property Name="DataLength" Type="int" Nullable="false" />
+          <Property Name="RowStatus" Type="varchar" MaxLength="50" />
+          <Property Name="CreatedWho" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="CreatedWhen" Type="datetime" Nullable="false" />
+          <Property Name="ChangedWho" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="ChangedWhen" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TransactionDataDetail">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="TransactionDataID" Type="int" Nullable="false" />
+          <Property Name="Data" Type="varchar" MaxLength="2000" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="UserName" Type="varchar" MaxLength="200" />
+          <Property Name="Password" Type="varchar" MaxLength="200" />
+          <Property Name="ClientTag" Type="varchar" MaxLength="50" />
+          <Property Name="CreatedWho" Type="varchar" MaxLength="50" />
+          <Property Name="CreatedWhen" Type="datetime" />
+          <Property Name="ChangedWho" Type="varchar" MaxLength="50" />
+          <Property Name="ChangedWhen" Type="datetime" />
+        </EntityType>
+        <Association Name="FK_Transaction">
+          <End Role="Transaction" Type="B2BAISERAModel.Store.Transaction" Multiplicity="1" />
+          <End Role="TransactionData" Type="B2BAISERAModel.Store.TransactionData" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Transaction">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="TransactionData">
+              <PropertyRef Name="TransactionID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TransactionData">
+          <End Role="TransactionData" Type="B2BAISERAModel.Store.TransactionData" Multiplicity="1" />
+          <End Role="TransactionDataDetail" Type="B2BAISERAModel.Store.TransactionDataDetail" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TransactionData">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="TransactionDataDetail">
+              <PropertyRef Name="TransactionDataID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TransactionData_S02002">
+          <End Role="TransactionData" Type="B2BAISERAModel.Store.TransactionData" Multiplicity="0..1" />
+          <End Role="S02002" Type="B2BAISERAModel.Store.S02002" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TransactionData">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="S02002">
+              <PropertyRef Name="TransactionDataID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="B2BAISERAModel" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="B2BAISERAEntities">
+          <EntitySet Name="DocumentFileTypes" EntityType="B2BAISERAModel.DocumentFileType" />
+          <EntitySet Name="DocumentIPAddresses" EntityType="B2BAISERAModel.DocumentIPAddress" />
+          <EntitySet Name="Responses" EntityType="B2BAISERAModel.Response" />
+          <EntitySet Name="TransactionDatas" EntityType="B2BAISERAModel.TransactionData" />
+          <EntitySet Name="TransactionDataDetails" EntityType="B2BAISERAModel.TransactionDataDetail" />
+          <EntitySet Name="Users" EntityType="B2BAISERAModel.User" />
+          <AssociationSet Name="FK_TransactionData" Association="B2BAISERAModel.FK_TransactionData">
+            <End Role="TransactionData" EntitySet="TransactionDatas" />
+            <End Role="TransactionDataDetail" EntitySet="TransactionDataDetails" />
+          </AssociationSet>
+          <EntitySet Name="Transactions" EntityType="B2BAISERAModel.Transaction" />
+          <AssociationSet Name="FK_Transaction" Association="B2BAISERAModel.FK_Transaction">
+            <End Role="Transaction" EntitySet="Transactions" />
+            <End Role="TransactionData" EntitySet="TransactionDatas" />
+          </AssociationSet>
+          <EntitySet Name="S02002" EntityType="B2BAISERAModel.S02002" />
+          <AssociationSet Name="FK_TransactionData_S02002" Association="B2BAISERAModel.FK_TransactionData_S02002">
+            <End Role="TransactionData" EntitySet="TransactionDatas" />
+            <End Role="S02002" EntitySet="S02002" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="DocumentFileType">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Type="Int32" Name="ID" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+          <Property Type="String" Name="FileTypeName" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="CreatedWho" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="CreatedWhen" />
+          <Property Type="String" Name="ChangedWho" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="ChangedWhen" />
+        </EntityType>
+        <EntityType Name="DocumentIPAddress">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Type="Int32" Name="ID" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+          <Property Type="String" Name="IPAddress" Nullable="false" MaxLength="15" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="CreatedWho" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="CreatedWhen" />
+          <Property Type="String" Name="ChangedWho" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="ChangedWhen" />
+        </EntityType>
+        <EntityType Name="Response">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Type="Int32" Name="ID" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+          <Property Type="String" Name="WebServiceName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="MethodName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="Boolean" Name="Acknowledge" Nullable="false" />
+          <Property Type="String" Name="TicketNo" MaxLength="500" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="Message" MaxLength="500" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="CreatedWho" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="CreatedWhen" Nullable="false" />
+          <Property Type="String" Name="ChangedWho" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="ChangedWhen" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TransactionData">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Type="Int32" Name="ID" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+          <Property Type="Int32" Name="TransactionID" Nullable="false" />
+          <Property Type="String" Name="TransGUID" Nullable="false" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="DocumentNumber" Nullable="false" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="FileType" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="IPAddress" Nullable="false" MaxLength="15" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="DestinationUser" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="Key1" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="Key2" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="Key3" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Type="Int32" Name="DataLength" Nullable="false" />
+          <Property Type="String" Name="RowStatus" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="CreatedWho" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="CreatedWhen" Nullable="false" />
+          <Property Type="String" Name="ChangedWho" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="ChangedWhen" Nullable="false" />
+          <NavigationProperty Name="TransactionDataDetails" Relationship="B2BAISERAModel.FK_TransactionData" FromRole="TransactionData" ToRole="TransactionDataDetail" />
+          <NavigationProperty Name="Transaction" Relationship="B2BAISERAModel.FK_Transaction" FromRole="TransactionData" ToRole="Transaction" />
+          <NavigationProperty Name="S02002" Relationship="B2BAISERAModel.FK_TransactionData_S02002" FromRole="TransactionData" ToRole="S02002" />
+        </EntityType>
+        <EntityType Name="TransactionDataDetail">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Type="Int32" Name="ID" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+          <Property Type="Int32" Name="TransactionDataID" Nullable="false" />
+          <Property Type="String" Name="Data" MaxLength="2000" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="TransactionData" Relationship="B2BAISERAModel.FK_TransactionData" FromRole="TransactionDataDetail" ToRole="TransactionData" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Type="Int32" Name="ID" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+          <Property Type="String" Name="UserName" MaxLength="200" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="Password" MaxLength="200" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="ClientTag" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="CreatedWho" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="CreatedWhen" />
+          <Property Type="String" Name="ChangedWho" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="ChangedWhen" />
+        </EntityType>
+        <Association Name="FK_TransactionData">
+          <End Type="B2BAISERAModel.TransactionData" Role="TransactionData" Multiplicity="1" />
+          <End Type="B2BAISERAModel.TransactionDataDetail" Role="TransactionDataDetail" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TransactionData">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="TransactionDataDetail">
+              <PropertyRef Name="TransactionDataID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Transaction">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Type="Int32" Name="ID" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+          <Property Type="String" Name="TicketNo" Nullable="false" MaxLength="200" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="ClientTag" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="CreatedWho" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="CreatedWhen" Nullable="false" />
+          <Property Type="String" Name="ChangedWho" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="ChangedWhen" Nullable="false" />
+          <NavigationProperty Name="TransactionDatas" Relationship="B2BAISERAModel.FK_Transaction" FromRole="Transaction" ToRole="TransactionData" />
+        </EntityType>
+        <Association Name="FK_Transaction">
+          <End Type="B2BAISERAModel.Transaction" Role="Transaction" Multiplicity="1" />
+          <End Type="B2BAISERAModel.TransactionData" Role="TransactionData" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Transaction">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="TransactionData">
+              <PropertyRef Name="TransactionID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="S02002">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Type="Int32" Name="ID" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+          <Property Type="Int32" Name="TransactionDataID" />
+          <Property Type="String" Name="PONumber" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="Decimal" Name="Version" Precision="3" Scale="0" />
+          <Property Type="String" Name="StatusPOSERA" MaxLength="1" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="RejectRevisedPOSERA" MaxLength="500" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="DocumentNo" MaxLength="15" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="AIMaterialNumber" MaxLength="18" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="SERAMaterialNumber" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="SERAMaterialDescription" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="AIColor" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="SERAColor" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="QuotationNo" MaxLength="15" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="SalesOrderNo" MaxLength="15" FixedLength="false" Unicode="false" />
+          <Property Type="Double" Name="DPPByVendor" />
+          <Property Type="Double" Name="PPNByVendor" />
+          <Property Type="Double" Name="BBNPriceByVendor" />
+          <Property Type="String" Name="Currency" MaxLength="4" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="ChassisNumberByVendor" MaxLength="18" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="MachineNumberByVendor" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="CBUCKD" MaxLength="3" FixedLength="false" Unicode="false" />
+          <Property Type="Int32" Name="Year" />
+          <Property Type="String" Name="FactureDONumber" MaxLength="15" FixedLength="false" Unicode="false" />
+          <Property Type="Boolean" Name="BillingStatus" />
+          <Property Type="DateTime" Name="FactureDODate" />
+          <Property Type="String" Name="NoFakturKendaraan" MaxLength="15" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="TanggalFakturKendaraan" />
+          <Property Type="String" Name="CancellationReason" MaxLength="500" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="ActualDateDeliveryUnit" />
+          <Property Type="String" Name="BSTKBNo" MaxLength="25" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="LicensePlateByVendor" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="STNKDateByVendor" />
+          <Property Type="DateTime" Name="RevisiSTNK" />
+          <Property Type="String" Name="NoSertifikat" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="TglSertifikat" />
+          <Property Type="String" Name="NoFormulirA" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="TglFormulirA" />
+          <Property Type="String" Name="NoSertifikatRegUjiTipe" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="ActualDeliveryBPKBDate" />
+          <Property Type="String" Name="NamaPenerima" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="AlamatPenerima" MaxLength="40" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="BPKBNumber" MaxLength="11" FixedLength="false" Unicode="false" />
+          <Property Type="String" Name="RemarksBPKB" MaxLength="255" FixedLength="false" Unicode="false" />
+          <Property Type="DateTime" Name="RevisiBPKB" />
+          <NavigationProperty Name="TransactionData" Relationship="B2BAISERAModel.FK_TransactionData_S02002" FromRole="S02002" ToRole="TransactionData" />
+        </EntityType>
+        <Association Name="FK_TransactionData_S02002">
+          <End Type="B2BAISERAModel.TransactionData" Role="TransactionData" Multiplicity="0..1" />
+          <End Type="B2BAISERAModel.S02002" Role="S02002" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TransactionData">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="S02002">
+              <PropertyRef Name="TransactionDataID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="B2BAISERAModelStoreContainer" CdmEntityContainer="B2BAISERAEntities">
+          <EntitySetMapping Name="DocumentFileTypes">
+            <EntityTypeMapping TypeName="B2BAISERAModel.DocumentFileType">
+              <MappingFragment StoreEntitySet="DocumentFileType">
+                <ScalarProperty Name="ChangedWhen" ColumnName="ChangedWhen" />
+                <ScalarProperty Name="ChangedWho" ColumnName="ChangedWho" />
+                <ScalarProperty Name="CreatedWhen" ColumnName="CreatedWhen" />
+                <ScalarProperty Name="CreatedWho" ColumnName="CreatedWho" />
+                <ScalarProperty Name="FileTypeName" ColumnName="FileTypeName" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="DocumentIPAddresses">
+            <EntityTypeMapping TypeName="B2BAISERAModel.DocumentIPAddress">
+              <MappingFragment StoreEntitySet="DocumentIPAddress">
+                <ScalarProperty Name="ChangedWhen" ColumnName="ChangedWhen" />
+                <ScalarProperty Name="ChangedWho" ColumnName="ChangedWho" />
+                <ScalarProperty Name="CreatedWhen" ColumnName="CreatedWhen" />
+                <ScalarProperty Name="CreatedWho" ColumnName="CreatedWho" />
+                <ScalarProperty Name="IPAddress" ColumnName="IPAddress" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Responses">
+            <EntityTypeMapping TypeName="B2BAISERAModel.Response">
+              <MappingFragment StoreEntitySet="Response">
+                <ScalarProperty Name="ChangedWhen" ColumnName="ChangedWhen" />
+                <ScalarProperty Name="ChangedWho" ColumnName="ChangedWho" />
+                <ScalarProperty Name="CreatedWhen" ColumnName="CreatedWhen" />
+                <ScalarProperty Name="CreatedWho" ColumnName="CreatedWho" />
+                <ScalarProperty Name="Message" ColumnName="Message" />
+                <ScalarProperty Name="TicketNo" ColumnName="TicketNo" />
+                <ScalarProperty Name="Acknowledge" ColumnName="Acknowledge" />
+                <ScalarProperty Name="MethodName" ColumnName="MethodName" />
+                <ScalarProperty Name="WebServiceName" ColumnName="WebServiceName" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TransactionDatas">
+            <EntityTypeMapping TypeName="B2BAISERAModel.TransactionData">
+              <MappingFragment StoreEntitySet="TransactionData">
+                <ScalarProperty Name="ChangedWhen" ColumnName="ChangedWhen" />
+                <ScalarProperty Name="ChangedWho" ColumnName="ChangedWho" />
+                <ScalarProperty Name="CreatedWhen" ColumnName="CreatedWhen" />
+                <ScalarProperty Name="CreatedWho" ColumnName="CreatedWho" />
+                <ScalarProperty Name="RowStatus" ColumnName="RowStatus" />
+                <ScalarProperty Name="DataLength" ColumnName="DataLength" />
+                <ScalarProperty Name="Key3" ColumnName="Key3" />
+                <ScalarProperty Name="Key2" ColumnName="Key2" />
+                <ScalarProperty Name="Key1" ColumnName="Key1" />
+                <ScalarProperty Name="DestinationUser" ColumnName="DestinationUser" />
+                <ScalarProperty Name="IPAddress" ColumnName="IPAddress" />
+                <ScalarProperty Name="FileType" ColumnName="FileType" />
+                <ScalarProperty Name="DocumentNumber" ColumnName="DocumentNumber" />
+                <ScalarProperty Name="TransGUID" ColumnName="TransGUID" />
+                <ScalarProperty Name="TransactionID" ColumnName="TransactionID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TransactionDataDetails">
+            <EntityTypeMapping TypeName="B2BAISERAModel.TransactionDataDetail">
+              <MappingFragment StoreEntitySet="TransactionDataDetail">
+                <ScalarProperty Name="Data" ColumnName="Data" />
+                <ScalarProperty Name="TransactionDataID" ColumnName="TransactionDataID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Users">
+            <EntityTypeMapping TypeName="B2BAISERAModel.User">
+              <MappingFragment StoreEntitySet="User">
+                <ScalarProperty Name="ChangedWhen" ColumnName="ChangedWhen" />
+                <ScalarProperty Name="ChangedWho" ColumnName="ChangedWho" />
+                <ScalarProperty Name="CreatedWhen" ColumnName="CreatedWhen" />
+                <ScalarProperty Name="CreatedWho" ColumnName="CreatedWho" />
+                <ScalarProperty Name="ClientTag" ColumnName="ClientTag" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="UserName" ColumnName="UserName" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Transactions">
+            <EntityTypeMapping TypeName="B2BAISERAModel.Transaction">
+              <MappingFragment StoreEntitySet="Transaction">
+                <ScalarProperty Name="ChangedWhen" ColumnName="ChangedWhen" />
+                <ScalarProperty Name="ChangedWho" ColumnName="ChangedWho" />
+                <ScalarProperty Name="CreatedWhen" ColumnName="CreatedWhen" />
+                <ScalarProperty Name="CreatedWho" ColumnName="CreatedWho" />
+                <ScalarProperty Name="ClientTag" ColumnName="ClientTag" />
+                <ScalarProperty Name="TicketNo" ColumnName="TicketNo" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="S02002">
+            <EntityTypeMapping TypeName="B2BAISERAModel.S02002">
+              <MappingFragment StoreEntitySet="S02002">
+                <ScalarProperty Name="RevisiBPKB" ColumnName="RevisiBPKB" />
+                <ScalarProperty Name="RemarksBPKB" ColumnName="RemarksBPKB" />
+                <ScalarProperty Name="BPKBNumber" ColumnName="BPKBNumber" />
+                <ScalarProperty Name="AlamatPenerima" ColumnName="AlamatPenerima" />
+                <ScalarProperty Name="NamaPenerima" ColumnName="NamaPenerima" />
+                <ScalarProperty Name="ActualDeliveryBPKBDate" ColumnName="ActualDeliveryBPKBDate" />
+                <ScalarProperty Name="NoSertifikatRegUjiTipe" ColumnName="NoSertifikatRegUjiTipe" />
+                <ScalarProperty Name="TglFormulirA" ColumnName="TglFormulirA" />
+                <ScalarProperty Name="NoFormulirA" ColumnName="NoFormulirA" />
+                <ScalarProperty Name="TglSertifikat" ColumnName="TglSertifikat" />
+                <ScalarProperty Name="NoSertifikat" ColumnName="NoSertifikat" />
+                <ScalarProperty Name="RevisiSTNK" ColumnName="RevisiSTNK" />
+                <ScalarProperty Name="STNKDateByVendor" ColumnName="STNKDateByVendor" />
+                <ScalarProperty Name="LicensePlateByVendor" ColumnName="LicensePlateByVendor" />
+                <ScalarProperty Name="BSTKBNo" ColumnName="BSTKBNo" />
+                <ScalarProperty Name="ActualDateDeliveryUnit" ColumnName="ActualDateDeliveryUnit" />
+                <ScalarProperty Name="CancellationReason" ColumnName="CancellationReason" />
+                <ScalarProperty Name="TanggalFakturKendaraan" ColumnName="TanggalFakturKendaraan" />
+                <ScalarProperty Name="NoFakturKendaraan" ColumnName="NoFakturKendaraan" />
+                <ScalarProperty Name="FactureDODate" ColumnName="FactureDODate" />
+                <ScalarProperty Name="BillingStatus" ColumnName="BillingStatus" />
+                <ScalarProperty Name="FactureDONumber" ColumnName="FactureDONumber" />
+                <ScalarProperty Name="Year" ColumnName="Year" />
+                <ScalarProperty Name="CBUCKD" ColumnName="CBUCKD" />
+                <ScalarProperty Name="MachineNumberByVendor" ColumnName="MachineNumberByVendor" />
+                <ScalarProperty Name="ChassisNumberByVendor" ColumnName="ChassisNumberByVendor" />
+                <ScalarProperty Name="Currency" ColumnName="Currency" />
+                <ScalarProperty Name="BBNPriceByVendor" ColumnName="BBNPriceByVendor" />
+                <ScalarProperty Name="PPNByVendor" ColumnName="PPNByVendor" />
+                <ScalarProperty Name="DPPByVendor" ColumnName="DPPByVendor" />
+                <ScalarProperty Name="SalesOrderNo" ColumnName="SalesOrderNo" />
+                <ScalarProperty Name="QuotationNo" ColumnName="QuotationNo" />
+                <ScalarProperty Name="SERAColor" ColumnName="SERAColor" />
+                <ScalarProperty Name="AIColor" ColumnName="AIColor" />
+                <ScalarProperty Name="SERAMaterialDescription" ColumnName="SERAMaterialDescription" />
+                <ScalarProperty Name="SERAMaterialNumber" ColumnName="SERAMaterialNumber" />
+                <ScalarProperty Name="AIMaterialNumber" ColumnName="AIMaterialNumber" />
+                <ScalarProperty Name="DocumentNo" ColumnName="DocumentNo" />
+                <ScalarProperty Name="RejectRevisedPOSERA" ColumnName="RejectRevisedPOSERA" />
+                <ScalarProperty Name="StatusPOSERA" ColumnName="StatusPOSERA" />
+                <ScalarProperty Name="Version" ColumnName="Version" />
+                <ScalarProperty Name="PONumber" ColumnName="PONumber" />
+                <ScalarProperty Name="TransactionDataID" ColumnName="TransactionDataID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="B2BAISERA">
+        <EntityTypeShape EntityType="B2BAISERAModel.DocumentFileType" Width="1.5" PointX="5.75" PointY="5.75" Height="2.1725878906250031" />
+        <EntityTypeShape EntityType="B2BAISERAModel.DocumentIPAddress" Width="1.5" PointX="0.75" PointY="6.75" Height="2.1725878906250031" />
+        <EntityTypeShape EntityType="B2BAISERAModel.Response" Width="1.5" PointX="2.75" PointY="6.75" Height="2.9417936197916674" />
+        <EntityTypeShape EntityType="B2BAISERAModel.TransactionData" Width="1.5" PointX="3" PointY="1" Height="4.48020507812501" />
+        <EntityTypeShape EntityType="B2BAISERAModel.TransactionDataDetail" Width="1.5" PointX="5.25" PointY="2.375" Height="1.7879850260416674" />
+        <EntityTypeShape EntityType="B2BAISERAModel.User" Width="1.5" PointX="7.75" PointY="3.75" Height="2.5571907552083246" />
+        <AssociationConnector Association="B2BAISERAModel.FK_TransactionData" >
+          <ConnectorPoint PointX="4.5" PointY="3.2689925130208337" />
+          <ConnectorPoint PointX="5.25" PointY="3.2689925130208337" />
+        </AssociationConnector>
+        <EntityTypeShape EntityType="B2BAISERAModel.Transaction" Width="1.5" PointX="0.75" PointY="2" Height="2.5571907552083317" />
+        <AssociationConnector Association="B2BAISERAModel.FK_Transaction" >
+          <ConnectorPoint PointX="2.25" PointY="3.2785953776041659" />
+          <ConnectorPoint PointX="3" PointY="3.2785953776041659" />
+        </AssociationConnector>
+        <EntityTypeShape EntityType="B2BAISERAModel.S02002" Width="1.5" PointX="5.25" PointY="8.875" Height="9.672343749999996" />
+        <AssociationConnector Association="B2BAISERAModel.FK_TransactionData_S02002" >
+          <ConnectorPoint PointX="4.40625" PointY="5.6725065104166656" />
+          <ConnectorPoint PointX="4.40625" PointY="14.150818684895832" />
+          <ConnectorPoint PointX="5.25" PointY="14.150818684895832" />
+        </AssociationConnector>
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

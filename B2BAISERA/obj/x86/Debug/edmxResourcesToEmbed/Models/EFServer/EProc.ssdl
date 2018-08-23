@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityType Name="CUSTOM_LOG">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="WebServiceName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="MethodName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Acknowledge" Type="bit" Nullable="false" />
+    <Property Name="TicketNo" Type="varchar" MaxLength="1000" />
+    <Property Name="Message" Type="varchar" MaxLength="200" />
+    <Property Name="FileType" Type="varchar" MaxLength="10" />
+    <Property Name="CreatedWho" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CreatedWhen" Type="datetime" Nullable="false" />
+    <Property Name="ChangedWho" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ChangedWhen" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CUSTOM_S02003">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TransactionDataID" Type="int" />
+    <Property Name="PONumber" Type="varchar" MaxLength="50" />
+    <Property Name="VersionPOSera" Type="int" />
+    <Property Name="DataVersion" Type="int" />
+    <Property Name="KodeCabangAI" Type="varchar" MaxLength="4" />
+    <Property Name="ReasonRejection" Type="varchar" MaxLength="500" />
+    <Property Name="dibuatOleh" Type="varchar" MaxLength="50" />
+    <Property Name="dibuatTanggal" Type="datetime" />
+    <Property Name="diubahOleh" Type="varchar" MaxLength="50" />
+    <Property Name="diubahTanggal" Type="datetime" />
+  </EntityType>
+  <EntityType Name="CUSTOM_S02003_TEMP">
+    <Key>
+      <PropertyRef Name="PONumber" />
+    </Key>
+    <Property Name="PONumber" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="VersionPOSera" Type="int" />
+    <Property Name="DataVersion" Type="int" />
+    <Property Name="KodeCabangAI" Type="varchar" MaxLength="4" />
+    <Property Name="ReasonRejection" Type="varchar" MaxLength="500" />
+    <Property Name="CompanyCodeAI" Type="varchar" MaxLength="5" />
+  </EntityType>
+  <EntityType Name="CUSTOM_TRANSACTION">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Acknowledge" Type="bit" />
+    <Property Name="TicketNo" Type="varchar" MaxLength="1000" />
+    <Property Name="Message" Type="varchar" MaxLength="1000" />
+    <Property Name="ClientTag" Type="varchar" MaxLength="50" />
+    <Property Name="CreatedWho" Type="varchar" MaxLength="50" />
+    <Property Name="CreatedWhen" Type="datetime" />
+    <Property Name="ChangedWho" Type="varchar" MaxLength="50" />
+    <Property Name="ChangedWhen" Type="datetime" />
+  </EntityType>
+  <EntityType Name="CUSTOM_TRANSACTIONDATA">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TransactionID" Type="int" Nullable="false" />
+    <Property Name="TransGUID" Type="varchar" MaxLength="40" />
+    <Property Name="DocumentNumber" Type="varchar" MaxLength="30" />
+    <Property Name="FileType" Type="varchar" MaxLength="20" />
+    <Property Name="IPAddress" Type="varchar" MaxLength="15" />
+    <Property Name="DestinationUser" Type="varchar" MaxLength="10" />
+    <Property Name="Key1" Type="varchar" MaxLength="20" />
+    <Property Name="Key2" Type="varchar" MaxLength="20" />
+    <Property Name="Key3" Type="varchar" MaxLength="20" />
+    <Property Name="DataLength" Type="int" />
+    <Property Name="RowStatus" Type="varchar" MaxLength="50" />
+    <Property Name="CreatedWho" Type="varchar" MaxLength="50" />
+    <Property Name="CreatedWhen" Type="datetime" />
+    <Property Name="ChangedWho" Type="varchar" MaxLength="50" />
+    <Property Name="ChangedWhen" Type="datetime" />
+  </EntityType>
+  <EntityType Name="CUSTOM_TRANSACTIONDATADETAIL">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TransactionDataID" Type="int" Nullable="false" />
+    <Property Name="Data" Type="varchar" MaxLength="2000" />
+    <Property Name="dibuatOleh" Type="varchar" MaxLength="50" />
+    <Property Name="dibuatTanggal" Type="datetime" />
+    <Property Name="diubahOleh" Type="varchar" MaxLength="50" />
+    <Property Name="diubahTanggal" Type="datetime" />
+  </EntityType>
+  <EntityType Name="CUSTOM_USER">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="varchar" MaxLength="200" />
+    <Property Name="Password" Type="varchar" MaxLength="200" />
+    <Property Name="UserCode" Type="varchar" MaxLength="200" />
+    <Property Name="PassCode" Type="varchar" MaxLength="200" />
+    <Property Name="ClientTag" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Function Name="sp_CancelPOSeraToAI" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="sp_CreatePOSeraToAI_HS" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="sp_CreatePOSeraToAI_IS" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="sp_DeleteAllTempHSS02003" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="sp_DeleteTempHS" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="PONUMBER" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="sp_DeleteTempHSS02003" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="PONUMBER" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="sp_DeleteTempHSS02005" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="PONUMBER" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="sp_DeleteTempIS" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="PONUMBER" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="sp_UpdateS02002" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="PONUMBER" Type="varchar" Mode="In" />
+    <Parameter Name="HARGADPP_INPUT" Type="float" Mode="In" />
+    <Parameter Name="HARGAPPNUNIT_INPUT" Type="float" Mode="In" />
+    <Parameter Name="HARGABBN_INPUT" Type="float" Mode="In" />
+    <Parameter Name="DONUMBER" Type="varchar" Mode="In" />
+    <Parameter Name="DODATE" Type="datetime" Mode="In" />
+    <Parameter Name="ACTUALDATEDELIVEREDUNIT" Type="datetime" Mode="In" />
+    <Parameter Name="NOCHASIS_INPUT" Type="varchar" Mode="In" />
+    <Parameter Name="NOENGINE_INPUT" Type="varchar" Mode="In" />
+    <Parameter Name="NOFAKTUR" Type="varchar" Mode="In" />
+    <Parameter Name="TGLFAKTUR" Type="datetime" Mode="In" />
+    <Parameter Name="NOPOLISI_INPUT" Type="varchar" Mode="In" />
+    <Parameter Name="TGLSTNK_INPUT" Type="datetime" Mode="In" />
+    <Parameter Name="NOSERTIFIKAT" Type="varchar" Mode="In" />
+    <Parameter Name="TGLSERTIFIKAT" Type="datetime" Mode="In" />
+    <Parameter Name="NOFORMULIRA" Type="varchar" Mode="In" />
+    <Parameter Name="TGLFORMULIRA" Type="datetime" Mode="In" />
+    <Parameter Name="NOSERTIFIKATREGUJITIPE" Type="varchar" Mode="In" />
+    <Parameter Name="DATEDELIVERYTOBRANCHORVENDOR" Type="datetime" Mode="In" />
+    <Parameter Name="NOBPKB" Type="varchar" Mode="In" />
+    <Parameter Name="KETBPKB" Type="varchar" Mode="In" />
+    <Parameter Name="REVISEDATE" Type="datetime" Mode="In" />
+  </Function>
+  <Function Name="sp_UpdateS02006" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="PONUMBER" Type="varchar" Mode="In" />
+    <Parameter Name="NOFAKTUR" Type="varchar" Mode="In" />
+    <Parameter Name="INVNO" Type="varchar" Mode="In" />
+    <Parameter Name="INVDATE" Type="datetime" Mode="In" />
+    <Parameter Name="NOFAKTURPAJAK" Type="varchar" Mode="In" />
+    <Parameter Name="NOCHASIS_INPUT" Type="varchar" Mode="In" />
+    <Parameter Name="NETPRICE" Type="decimal" Mode="In" />
+    <Parameter Name="BUSINESSAREACODE" Type="varchar" Mode="In" />
+    <Parameter Name="CUSTOMERNO" Type="varchar" Mode="In" />
+    <Parameter Name="NOMORSPES" Type="varchar" Mode="In" />
+    <Parameter Name="SALESORDERNO" Type="varchar" Mode="In" />
+    <Parameter Name="SALESMANNUMBER" Type="varchar" Mode="In" />
+    <Parameter Name="VERSIONPOSERA" Type="int" Mode="In" />
+    <Parameter Name="KUITANSINOREF" Type="varchar" Mode="In" />
+    <Parameter Name="KUITANSIDATEREF" Type="datetime" Mode="In" />
+    <Parameter Name="DOWNLOADDATE" Type="datetime" Mode="In" />
+  </Function>
+  <Function Name="sp_UpdateS02008" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="PONUMBER" Type="varchar" Mode="In" />
+    <Parameter Name="VERSIONPOSERA" Type="int" Mode="In" />
+    <Parameter Name="DATAVERSION" Type="int" Mode="In" />
+    <Parameter Name="SALESORDERNO" Type="varchar" Mode="In" />
+    <Parameter Name="NOCHASIS_INPUT" Type="varchar" Mode="In" />
+    <Parameter Name="TGLMASUKKAROSERI" Type="datetime" Mode="In" />
+  </Function>
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="CUSTOM_LOG" EntityType="Self.CUSTOM_LOG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CUSTOM_S02003" EntityType="Self.CUSTOM_S02003" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CUSTOM_S02003_TEMP" EntityType="Self.CUSTOM_S02003_TEMP" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CUSTOM_TRANSACTION" EntityType="Self.CUSTOM_TRANSACTION" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CUSTOM_TRANSACTIONDATA" EntityType="Self.CUSTOM_TRANSACTIONDATA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CUSTOM_TRANSACTIONDATADETAIL" EntityType="Self.CUSTOM_TRANSACTIONDATADETAIL" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CUSTOM_USER" EntityType="Self.CUSTOM_USER" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

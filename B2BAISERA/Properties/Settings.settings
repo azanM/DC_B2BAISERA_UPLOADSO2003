@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="B2BAISERA.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="B2BAISERA_S02003_wsB2B_B2BAIWebServiceDMZ" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://apps.astra.co.id/B2BAIWebServiceDMZ/B2BAIWebServiceDMZ.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

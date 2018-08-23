@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="B2BAISERAModel" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="B2BAISERAEntities">
+    <EntitySet Name="DocumentFileTypes" EntityType="B2BAISERAModel.DocumentFileType" />
+    <EntitySet Name="DocumentIPAddresses" EntityType="B2BAISERAModel.DocumentIPAddress" />
+    <EntitySet Name="Responses" EntityType="B2BAISERAModel.Response" />
+    <EntitySet Name="TransactionDatas" EntityType="B2BAISERAModel.TransactionData" />
+    <EntitySet Name="TransactionDataDetails" EntityType="B2BAISERAModel.TransactionDataDetail" />
+    <EntitySet Name="Users" EntityType="B2BAISERAModel.User" />
+    <AssociationSet Name="FK_TransactionData" Association="B2BAISERAModel.FK_TransactionData">
+      <End Role="TransactionData" EntitySet="TransactionDatas" />
+      <End Role="TransactionDataDetail" EntitySet="TransactionDataDetails" />
+    </AssociationSet>
+    <EntitySet Name="Transactions" EntityType="B2BAISERAModel.Transaction" />
+    <AssociationSet Name="FK_Transaction" Association="B2BAISERAModel.FK_Transaction">
+      <End Role="Transaction" EntitySet="Transactions" />
+      <End Role="TransactionData" EntitySet="TransactionDatas" />
+    </AssociationSet>
+    <EntitySet Name="S02002" EntityType="B2BAISERAModel.S02002" />
+    <AssociationSet Name="FK_TransactionData_S02002" Association="B2BAISERAModel.FK_TransactionData_S02002">
+      <End Role="TransactionData" EntitySet="TransactionDatas" />
+      <End Role="S02002" EntitySet="S02002" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="DocumentFileType">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="String" Name="FileTypeName" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="CreatedWho" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="CreatedWhen" />
+    <Property Type="String" Name="ChangedWho" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="ChangedWhen" />
+  </EntityType>
+  <EntityType Name="DocumentIPAddress">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="String" Name="IPAddress" Nullable="false" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="CreatedWho" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="CreatedWhen" />
+    <Property Type="String" Name="ChangedWho" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="ChangedWhen" />
+  </EntityType>
+  <EntityType Name="Response">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="String" Name="WebServiceName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="MethodName" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Boolean" Name="Acknowledge" Nullable="false" />
+    <Property Type="String" Name="TicketNo" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Message" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="CreatedWho" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="CreatedWhen" Nullable="false" />
+    <Property Type="String" Name="ChangedWho" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="ChangedWhen" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TransactionData">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="Int32" Name="TransactionID" Nullable="false" />
+    <Property Type="String" Name="TransGUID" Nullable="false" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="DocumentNumber" Nullable="false" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="FileType" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="IPAddress" Nullable="false" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="DestinationUser" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Key1" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Key2" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Key3" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="DataLength" Nullable="false" />
+    <Property Type="String" Name="RowStatus" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="CreatedWho" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="CreatedWhen" Nullable="false" />
+    <Property Type="String" Name="ChangedWho" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="ChangedWhen" Nullable="false" />
+    <NavigationProperty Name="TransactionDataDetails" Relationship="B2BAISERAModel.FK_TransactionData" FromRole="TransactionData" ToRole="TransactionDataDetail" />
+    <NavigationProperty Name="Transaction" Relationship="B2BAISERAModel.FK_Transaction" FromRole="TransactionData" ToRole="Transaction" />
+    <NavigationProperty Name="S02002" Relationship="B2BAISERAModel.FK_TransactionData_S02002" FromRole="TransactionData" ToRole="S02002" />
+  </EntityType>
+  <EntityType Name="TransactionDataDetail">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="Int32" Name="TransactionDataID" Nullable="false" />
+    <Property Type="String" Name="Data" MaxLength="2000" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TransactionData" Relationship="B2BAISERAModel.FK_TransactionData" FromRole="TransactionDataDetail" ToRole="TransactionData" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="String" Name="UserName" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Password" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="ClientTag" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="CreatedWho" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="CreatedWhen" />
+    <Property Type="String" Name="ChangedWho" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="ChangedWhen" />
+  </EntityType>
+  <Association Name="FK_TransactionData">
+    <End Type="B2BAISERAModel.TransactionData" Role="TransactionData" Multiplicity="1" />
+    <End Type="B2BAISERAModel.TransactionDataDetail" Role="TransactionDataDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TransactionData">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TransactionDataDetail">
+        <PropertyRef Name="TransactionDataID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Transaction">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="String" Name="TicketNo" Nullable="false" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="ClientTag" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="CreatedWho" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="CreatedWhen" Nullable="false" />
+    <Property Type="String" Name="ChangedWho" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="ChangedWhen" Nullable="false" />
+    <NavigationProperty Name="TransactionDatas" Relationship="B2BAISERAModel.FK_Transaction" FromRole="Transaction" ToRole="TransactionData" />
+  </EntityType>
+  <Association Name="FK_Transaction">
+    <End Type="B2BAISERAModel.Transaction" Role="Transaction" Multiplicity="1" />
+    <End Type="B2BAISERAModel.TransactionData" Role="TransactionData" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Transaction">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="TransactionData">
+        <PropertyRef Name="TransactionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="S02002">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Type="Int32" Name="ID" Nullable="false" a:StoreGeneratedPattern="Identity" xmlns:a="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="Int32" Name="TransactionDataID" />
+    <Property Type="String" Name="PONumber" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Decimal" Name="Version" Precision="3" Scale="0" />
+    <Property Type="String" Name="StatusPOSERA" MaxLength="1" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="RejectRevisedPOSERA" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="DocumentNo" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="AIMaterialNumber" MaxLength="18" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="SERAMaterialNumber" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="SERAMaterialDescription" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="AIColor" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="SERAColor" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="QuotationNo" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="SalesOrderNo" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Type="Double" Name="DPPByVendor" />
+    <Property Type="Double" Name="PPNByVendor" />
+    <Property Type="Double" Name="BBNPriceByVendor" />
+    <Property Type="String" Name="Currency" MaxLength="4" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="ChassisNumberByVendor" MaxLength="18" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="MachineNumberByVendor" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="CBUCKD" MaxLength="3" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="Year" />
+    <Property Type="String" Name="FactureDONumber" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Type="Boolean" Name="BillingStatus" />
+    <Property Type="DateTime" Name="FactureDODate" />
+    <Property Type="String" Name="NoFakturKendaraan" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="TanggalFakturKendaraan" />
+    <Property Type="String" Name="CancellationReason" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="ActualDateDeliveryUnit" />
+    <Property Type="String" Name="BSTKBNo" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="LicensePlateByVendor" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="STNKDateByVendor" />
+    <Property Type="DateTime" Name="RevisiSTNK" />
+    <Property Type="String" Name="NoSertifikat" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="TglSertifikat" />
+    <Property Type="String" Name="NoFormulirA" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="TglFormulirA" />
+    <Property Type="String" Name="NoSertifikatRegUjiTipe" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="ActualDeliveryBPKBDate" />
+    <Property Type="String" Name="NamaPenerima" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="AlamatPenerima" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="BPKBNumber" MaxLength="11" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="RemarksBPKB" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="RevisiBPKB" />
+    <NavigationProperty Name="TransactionData" Relationship="B2BAISERAModel.FK_TransactionData_S02002" FromRole="S02002" ToRole="TransactionData" />
+  </EntityType>
+  <Association Name="FK_TransactionData_S02002">
+    <End Type="B2BAISERAModel.TransactionData" Role="TransactionData" Multiplicity="0..1" />
+    <End Type="B2BAISERAModel.S02002" Role="S02002" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TransactionData">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="S02002">
+        <PropertyRef Name="TransactionDataID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

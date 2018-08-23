@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="EProcEntities">
+    <EntitySetMapping Name="CUSTOM_TRANSACTION">
+      <EntityTypeMapping TypeName="Model.CUSTOM_TRANSACTION">
+        <MappingFragment StoreEntitySet="CUSTOM_TRANSACTION">
+          <ScalarProperty Name="Message" ColumnName="Message" />
+          <ScalarProperty Name="Acknowledge" ColumnName="Acknowledge" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TicketNo" ColumnName="TicketNo" />
+          <ScalarProperty Name="ClientTag" ColumnName="ClientTag" />
+          <ScalarProperty Name="CreatedWho" ColumnName="CreatedWho" />
+          <ScalarProperty Name="CreatedWhen" ColumnName="CreatedWhen" />
+          <ScalarProperty Name="ChangedWho" ColumnName="ChangedWho" />
+          <ScalarProperty Name="ChangedWhen" ColumnName="ChangedWhen" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CUSTOM_TRANSACTIONDATA">
+      <EntityTypeMapping TypeName="Model.CUSTOM_TRANSACTIONDATA">
+        <MappingFragment StoreEntitySet="CUSTOM_TRANSACTIONDATA">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TransactionID" ColumnName="TransactionID" />
+          <ScalarProperty Name="TransGUID" ColumnName="TransGUID" />
+          <ScalarProperty Name="DocumentNumber" ColumnName="DocumentNumber" />
+          <ScalarProperty Name="FileType" ColumnName="FileType" />
+          <ScalarProperty Name="IPAddress" ColumnName="IPAddress" />
+          <ScalarProperty Name="DestinationUser" ColumnName="DestinationUser" />
+          <ScalarProperty Name="Key1" ColumnName="Key1" />
+          <ScalarProperty Name="Key2" ColumnName="Key2" />
+          <ScalarProperty Name="Key3" ColumnName="Key3" />
+          <ScalarProperty Name="DataLength" ColumnName="DataLength" />
+          <ScalarProperty Name="RowStatus" ColumnName="RowStatus" />
+          <ScalarProperty Name="CreatedWho" ColumnName="CreatedWho" />
+          <ScalarProperty Name="CreatedWhen" ColumnName="CreatedWhen" />
+          <ScalarProperty Name="ChangedWho" ColumnName="ChangedWho" />
+          <ScalarProperty Name="ChangedWhen" ColumnName="ChangedWhen" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CUSTOM_TRANSACTIONDATADETAIL">
+      <EntityTypeMapping TypeName="Model.CUSTOM_TRANSACTIONDATADETAIL">
+        <MappingFragment StoreEntitySet="CUSTOM_TRANSACTIONDATADETAIL">
+          <ScalarProperty Name="diubahTanggal" ColumnName="diubahTanggal" />
+          <ScalarProperty Name="diubahOleh" ColumnName="diubahOleh" />
+          <ScalarProperty Name="dibuatTanggal" ColumnName="dibuatTanggal" />
+          <ScalarProperty Name="dibuatOleh" ColumnName="dibuatOleh" />
+          <ScalarProperty Name="Data" ColumnName="Data" />
+          <ScalarProperty Name="TransactionDataID" ColumnName="TransactionDataID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_DeleteTempHS" FunctionName="Model.Store.sp_DeleteTempHS" />
+    <FunctionImportMapping FunctionImportName="sp_DeleteTempIS" FunctionName="Model.Store.sp_DeleteTempIS" />
+    <FunctionImportMapping FunctionImportName="sp_CreatePOSeraToAI_HS" FunctionName="Model.Store.sp_CreatePOSeraToAI_HS" />
+    <FunctionImportMapping FunctionImportName="sp_CreatePOSeraToAI_IS" FunctionName="Model.Store.sp_CreatePOSeraToAI_IS" />
+    <FunctionImportMapping FunctionImportName="sp_DeleteTempHSS02003" FunctionName="Model.Store.sp_DeleteTempHSS02003" />
+    <FunctionImportMapping FunctionImportName="sp_DeleteTempHSS02005" FunctionName="Model.Store.sp_DeleteTempHSS02005" />
+    <FunctionImportMapping FunctionImportName="sp_UpdateS02002" FunctionName="Model.Store.sp_UpdateS02002" />
+    <FunctionImportMapping FunctionImportName="sp_UpdateS02008" FunctionName="Model.Store.sp_UpdateS02008" />
+    <FunctionImportMapping FunctionImportName="sp_UpdateS02006" FunctionName="Model.Store.sp_UpdateS02006" />
+    <EntitySetMapping Name="CUSTOM_S02003">
+      <EntityTypeMapping TypeName="Model.CUSTOM_S02003">
+        <MappingFragment StoreEntitySet="CUSTOM_S02003">
+          <ScalarProperty Name="diubahTanggal" ColumnName="diubahTanggal" />
+          <ScalarProperty Name="diubahOleh" ColumnName="diubahOleh" />
+          <ScalarProperty Name="dibuatTanggal" ColumnName="dibuatTanggal" />
+          <ScalarProperty Name="dibuatOleh" ColumnName="dibuatOleh" />
+          <ScalarProperty Name="ReasonRejection" ColumnName="ReasonRejection" />
+          <ScalarProperty Name="KodeCabangAI" ColumnName="KodeCabangAI" />
+          <ScalarProperty Name="DataVersion" ColumnName="DataVersion" />
+          <ScalarProperty Name="VersionPOSera" ColumnName="VersionPOSera" />
+          <ScalarProperty Name="PONumber" ColumnName="PONumber" />
+          <ScalarProperty Name="TransactionDataID" ColumnName="TransactionDataID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_CancelPOSeraToAI" FunctionName="Model.Store.sp_CancelPOSeraToAI" />
+    <FunctionImportMapping FunctionImportName="sp_DeleteAllTempHSS02003" FunctionName="Model.Store.sp_DeleteAllTempHSS02003" />
+    <EntitySetMapping Name="CUSTOM_USER">
+      <EntityTypeMapping TypeName="Model.CUSTOM_USER">
+        <MappingFragment StoreEntitySet="CUSTOM_USER">
+          <ScalarProperty Name="ClientTag" ColumnName="ClientTag" />
+          <ScalarProperty Name="PassCode" ColumnName="PassCode" />
+          <ScalarProperty Name="UserCode" ColumnName="UserCode" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CUSTOM_LOG">
+      <EntityTypeMapping TypeName="Model.CUSTOM_LOG">
+        <MappingFragment StoreEntitySet="CUSTOM_LOG">
+          <ScalarProperty Name="ChangedWhen" ColumnName="ChangedWhen" />
+          <ScalarProperty Name="ChangedWho" ColumnName="ChangedWho" />
+          <ScalarProperty Name="CreatedWhen" ColumnName="CreatedWhen" />
+          <ScalarProperty Name="CreatedWho" ColumnName="CreatedWho" />
+          <ScalarProperty Name="FileType" ColumnName="FileType" />
+          <ScalarProperty Name="Message" ColumnName="Message" />
+          <ScalarProperty Name="TicketNo" ColumnName="TicketNo" />
+          <ScalarProperty Name="Acknowledge" ColumnName="Acknowledge" />
+          <ScalarProperty Name="MethodName" ColumnName="MethodName" />
+          <ScalarProperty Name="WebServiceName" ColumnName="WebServiceName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CUSTOM_S02003_TEMP">
+      <EntityTypeMapping TypeName="Model.CUSTOM_S02003_TEMP">
+        <MappingFragment StoreEntitySet="CUSTOM_S02003_TEMP">
+          <ScalarProperty Name="CompanyCodeAI" ColumnName="CompanyCodeAI" />
+          <ScalarProperty Name="ReasonRejection" ColumnName="ReasonRejection" />
+          <ScalarProperty Name="KodeCabangAI" ColumnName="KodeCabangAI" />
+          <ScalarProperty Name="DataVersion" ColumnName="DataVersion" />
+          <ScalarProperty Name="VersionPOSera" ColumnName="VersionPOSera" />
+          <ScalarProperty Name="PONumber" ColumnName="PONumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

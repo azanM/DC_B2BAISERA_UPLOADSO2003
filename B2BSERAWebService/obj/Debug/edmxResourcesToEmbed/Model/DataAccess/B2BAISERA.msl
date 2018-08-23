@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="B2BAISERAModelStoreContainer" CdmEntityContainer="B2BAISERAEntities">
+    <EntitySetMapping Name="DocumentFileTypes">
+      <EntityTypeMapping TypeName="B2BAISERAModel.DocumentFileType">
+        <MappingFragment StoreEntitySet="DocumentFileType">
+          <ScalarProperty Name="ChangedWhen" ColumnName="ChangedWhen" />
+          <ScalarProperty Name="ChangedWho" ColumnName="ChangedWho" />
+          <ScalarProperty Name="CreatedWhen" ColumnName="CreatedWhen" />
+          <ScalarProperty Name="CreatedWho" ColumnName="CreatedWho" />
+          <ScalarProperty Name="FileTypeName" ColumnName="FileTypeName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DocumentIPAddresses">
+      <EntityTypeMapping TypeName="B2BAISERAModel.DocumentIPAddress">
+        <MappingFragment StoreEntitySet="DocumentIPAddress">
+          <ScalarProperty Name="ChangedWhen" ColumnName="ChangedWhen" />
+          <ScalarProperty Name="ChangedWho" ColumnName="ChangedWho" />
+          <ScalarProperty Name="CreatedWhen" ColumnName="CreatedWhen" />
+          <ScalarProperty Name="CreatedWho" ColumnName="CreatedWho" />
+          <ScalarProperty Name="IPAddress" ColumnName="IPAddress" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Responses">
+      <EntityTypeMapping TypeName="B2BAISERAModel.Response">
+        <MappingFragment StoreEntitySet="Response">
+          <ScalarProperty Name="ChangedWhen" ColumnName="ChangedWhen" />
+          <ScalarProperty Name="ChangedWho" ColumnName="ChangedWho" />
+          <ScalarProperty Name="CreatedWhen" ColumnName="CreatedWhen" />
+          <ScalarProperty Name="CreatedWho" ColumnName="CreatedWho" />
+          <ScalarProperty Name="Message" ColumnName="Message" />
+          <ScalarProperty Name="TicketNo" ColumnName="TicketNo" />
+          <ScalarProperty Name="Acknowledge" ColumnName="Acknowledge" />
+          <ScalarProperty Name="MethodName" ColumnName="MethodName" />
+          <ScalarProperty Name="WebServiceName" ColumnName="WebServiceName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TransactionDatas">
+      <EntityTypeMapping TypeName="B2BAISERAModel.TransactionData">
+        <MappingFragment StoreEntitySet="TransactionData">
+          <ScalarProperty Name="ChangedWhen" ColumnName="ChangedWhen" />
+          <ScalarProperty Name="ChangedWho" ColumnName="ChangedWho" />
+          <ScalarProperty Name="CreatedWhen" ColumnName="CreatedWhen" />
+          <ScalarProperty Name="CreatedWho" ColumnName="CreatedWho" />
+          <ScalarProperty Name="RowStatus" ColumnName="RowStatus" />
+          <ScalarProperty Name="DataLength" ColumnName="DataLength" />
+          <ScalarProperty Name="Key3" ColumnName="Key3" />
+          <ScalarProperty Name="Key2" ColumnName="Key2" />
+          <ScalarProperty Name="Key1" ColumnName="Key1" />
+          <ScalarProperty Name="DestinationUser" ColumnName="DestinationUser" />
+          <ScalarProperty Name="IPAddress" ColumnName="IPAddress" />
+          <ScalarProperty Name="FileType" ColumnName="FileType" />
+          <ScalarProperty Name="DocumentNumber" ColumnName="DocumentNumber" />
+          <ScalarProperty Name="TransGUID" ColumnName="TransGUID" />
+          <ScalarProperty Name="TransactionID" ColumnName="TransactionID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TransactionDataDetails">
+      <EntityTypeMapping TypeName="B2BAISERAModel.TransactionDataDetail">
+        <MappingFragment StoreEntitySet="TransactionDataDetail">
+          <ScalarProperty Name="Data" ColumnName="Data" />
+          <ScalarProperty Name="TransactionDataID" ColumnName="TransactionDataID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="B2BAISERAModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="ChangedWhen" ColumnName="ChangedWhen" />
+          <ScalarProperty Name="ChangedWho" ColumnName="ChangedWho" />
+          <ScalarProperty Name="CreatedWhen" ColumnName="CreatedWhen" />
+          <ScalarProperty Name="CreatedWho" ColumnName="CreatedWho" />
+          <ScalarProperty Name="ClientTag" ColumnName="ClientTag" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Transactions">
+      <EntityTypeMapping TypeName="B2BAISERAModel.Transaction">
+        <MappingFragment StoreEntitySet="Transaction">
+          <ScalarProperty Name="ChangedWhen" ColumnName="ChangedWhen" />
+          <ScalarProperty Name="ChangedWho" ColumnName="ChangedWho" />
+          <ScalarProperty Name="CreatedWhen" ColumnName="CreatedWhen" />
+          <ScalarProperty Name="CreatedWho" ColumnName="CreatedWho" />
+          <ScalarProperty Name="ClientTag" ColumnName="ClientTag" />
+          <ScalarProperty Name="TicketNo" ColumnName="TicketNo" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="S02002">
+      <EntityTypeMapping TypeName="B2BAISERAModel.S02002">
+        <MappingFragment StoreEntitySet="S02002">
+          <ScalarProperty Name="RevisiBPKB" ColumnName="RevisiBPKB" />
+          <ScalarProperty Name="RemarksBPKB" ColumnName="RemarksBPKB" />
+          <ScalarProperty Name="BPKBNumber" ColumnName="BPKBNumber" />
+          <ScalarProperty Name="AlamatPenerima" ColumnName="AlamatPenerima" />
+          <ScalarProperty Name="NamaPenerima" ColumnName="NamaPenerima" />
+          <ScalarProperty Name="ActualDeliveryBPKBDate" ColumnName="ActualDeliveryBPKBDate" />
+          <ScalarProperty Name="NoSertifikatRegUjiTipe" ColumnName="NoSertifikatRegUjiTipe" />
+          <ScalarProperty Name="TglFormulirA" ColumnName="TglFormulirA" />
+          <ScalarProperty Name="NoFormulirA" ColumnName="NoFormulirA" />
+          <ScalarProperty Name="TglSertifikat" ColumnName="TglSertifikat" />
+          <ScalarProperty Name="NoSertifikat" ColumnName="NoSertifikat" />
+          <ScalarProperty Name="RevisiSTNK" ColumnName="RevisiSTNK" />
+          <ScalarProperty Name="STNKDateByVendor" ColumnName="STNKDateByVendor" />
+          <ScalarProperty Name="LicensePlateByVendor" ColumnName="LicensePlateByVendor" />
+          <ScalarProperty Name="BSTKBNo" ColumnName="BSTKBNo" />
+          <ScalarProperty Name="ActualDateDeliveryUnit" ColumnName="ActualDateDeliveryUnit" />
+          <ScalarProperty Name="CancellationReason" ColumnName="CancellationReason" />
+          <ScalarProperty Name="TanggalFakturKendaraan" ColumnName="TanggalFakturKendaraan" />
+          <ScalarProperty Name="NoFakturKendaraan" ColumnName="NoFakturKendaraan" />
+          <ScalarProperty Name="FactureDODate" ColumnName="FactureDODate" />
+          <ScalarProperty Name="BillingStatus" ColumnName="BillingStatus" />
+          <ScalarProperty Name="FactureDONumber" ColumnName="FactureDONumber" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="CBUCKD" ColumnName="CBUCKD" />
+          <ScalarProperty Name="MachineNumberByVendor" ColumnName="MachineNumberByVendor" />
+          <ScalarProperty Name="ChassisNumberByVendor" ColumnName="ChassisNumberByVendor" />
+          <ScalarProperty Name="Currency" ColumnName="Currency" />
+          <ScalarProperty Name="BBNPriceByVendor" ColumnName="BBNPriceByVendor" />
+          <ScalarProperty Name="PPNByVendor" ColumnName="PPNByVendor" />
+          <ScalarProperty Name="DPPByVendor" ColumnName="DPPByVendor" />
+          <ScalarProperty Name="SalesOrderNo" ColumnName="SalesOrderNo" />
+          <ScalarProperty Name="QuotationNo" ColumnName="QuotationNo" />
+          <ScalarProperty Name="SERAColor" ColumnName="SERAColor" />
+          <ScalarProperty Name="AIColor" ColumnName="AIColor" />
+          <ScalarProperty Name="SERAMaterialDescription" ColumnName="SERAMaterialDescription" />
+          <ScalarProperty Name="SERAMaterialNumber" ColumnName="SERAMaterialNumber" />
+          <ScalarProperty Name="AIMaterialNumber" ColumnName="AIMaterialNumber" />
+          <ScalarProperty Name="DocumentNo" ColumnName="DocumentNo" />
+          <ScalarProperty Name="RejectRevisedPOSERA" ColumnName="RejectRevisedPOSERA" />
+          <ScalarProperty Name="StatusPOSERA" ColumnName="StatusPOSERA" />
+          <ScalarProperty Name="Version" ColumnName="Version" />
+          <ScalarProperty Name="PONumber" ColumnName="PONumber" />
+          <ScalarProperty Name="TransactionDataID" ColumnName="TransactionDataID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

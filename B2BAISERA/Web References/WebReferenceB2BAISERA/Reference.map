@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="https://appsdev.astra.co.id/B2BAIWsDMZ/B2BAIWebServiceDMZ.asmx?wsdl" filename="B2BAIWebServiceDMZ.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="https://appsdev.astra.co.id/B2BAIWsDMZ/B2BAIWebServiceDMZ.asmx?disco" filename="B2BAIWebServiceDMZ.disco" />
+  </Results>
+</DiscoveryClientResultsFile>
